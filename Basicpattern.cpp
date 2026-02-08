@@ -299,7 +299,7 @@ void pattern22(int n) {
     for(int i=0; i<t; i++){
     int n;
     cin>>n;
-    pattern20(n);
+    pattern13(n);
     }
     
 }
